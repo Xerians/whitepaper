@@ -6,7 +6,7 @@ coverY: 187.25535420098848
 
 # Gameplay
 
-Xerians has five different card colors. These colors were coded according to rarity and uniqueness levels. Each rarity will affect to score of Xerians. Cards are Heroic, Super Rare, Rare, Epic and Gold. &#x20;
+Xerians has five different card colors. These colors were coded according to rarity and uniqueness levels. Each rarity will effect to score of Xerians. Cards are Heroic, Super Rare, Rare, Epic and Gold. &#x20;
 
 
 
@@ -17,22 +17,22 @@ Xerians Universe has 5 different boosters and 5 different colors for each layer 
 * _Head Booster_ upgrades _Intelligence_ score of your Xerian&#x20;
 * _Body Booster_ upgrades _Strength_ score of your Xerian&#x20;
 * _Leg Booster_ upgrades _Speed_ score of your Xerian
-* _Arm Booster_ upgrades _Power_ score of you Xerians
-* _Backpack Booster_ upgrades _Strategy_ score of your Xerians
+* _Arm Booster_ upgrades _Power_ score of your Xerian
+* _Backpack Booster_ upgrades _Strategy_ score of your Xerian
 
 ![](.gitbook/assets/image.png)
 
 ### Phase 1
 
-Xerians Card owners will take their places in Battle Arenas where 3vs3 matches will be occurred and these arenas will be leveraged according to score and ticket prices
+Xerians Card owners will take their places in Battle Arenas where 3vs3 matches will be occurred and these arenas will be leveraged according to the score and ticket prices
 
 &#x20;
 
-Each Xerian will be allowed to play its own score ranged room. Xerians will get a score upgrade if its team wins the battle and each Xerian will get a score downgrade if its team loses the game. With this rule each Xerian will get upgrade/downgrade and may play in high or low rated rooms.&#x20;
+Each Xerian will be allowed to play in its own score ranged room. Xerians will get a score upgrade if its team wins the battle or Xerians will get a score downgrade if its team loses the battle. With this rule each Xerian will get upgrade/downgrade and may play in higher or lower rated rooms.&#x20;
 
 &#x20;
 
-Xerian Card Owners will randomly take place into the team and eligible battle arena by buying battle tickets
+Xerian Card Owners will be placed into teams randomly and will be eligible to participate in the battle arena by buying battle tickets.
 
 &#x20;
 
@@ -44,7 +44,7 @@ When 3vs3 teams are completed, the game triggers the simulation.
 
 &#x20;
 
-At the Game's Simulation Part, there is "RNG" (Random Number Generator) effect on game. RNG effects to Xerians' properties while battle. This function ensures that every player can beat others irrespective of cards scores. Team working on format and will be shared with community before games begin.
+At the Game's Simulation Part, there is "RNG" (Random Number Generator) effect on game. RNG effects to Xerians' properties while battle. This function ensures that every player can beat the other irrespective of the cards score. Team working on format and will be shared with community before games begin.
 
 &#x20;
 
@@ -64,7 +64,7 @@ __
 
 _Example_
 
-Xerian Card owner chose 500 $XRNS ticket and joined the battler and their team won the battle.
+Xerian Card owner chose 500 $XRNS ticket and joined the battle and their team won the battle.
 
 500 $XRNS \* 6 = 3000 $XRNS (total revenue of battle)
 
