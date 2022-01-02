@@ -22,7 +22,7 @@ Token symbol :  $**XRNS**
 
 Total supply 1,000,000,000&#x20;
 
-
+![](.gitbook/assets/XRNS.png)
 
 \----------------------------------------
 
