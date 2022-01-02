@@ -60,7 +60,7 @@ Xitem is an ERC-721 NFT a kind of assets drop or loot in arenas after battles (w
 
 The number of Xitems are not limited and not available for buy / trade.&#x20;
 
-![](<.gitbook/assets/Investor card.png>)
+
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
