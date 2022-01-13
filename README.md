@@ -1,6 +1,6 @@
 # Introduction
 
-Xerians is an NFT based play to earn card game on Avalanche Blockchain Network. Mechs were carefully hand-drown and crafted in detail within all aspects. The collection of 11.111 will be created with the mindset of prioritizing the quality of the work in order to please our holders.&#x20;
+Xerians is an NFT based play to earn card game on Avalanche Blockchain Network. Mechs were carefully hand-drawn and crafted in detail within all aspects. The collection of 11.111 will be created with the mindset of prioritizing the quality of the work in order to please our holders.&#x20;
 
 
 
