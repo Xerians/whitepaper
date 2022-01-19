@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * [What is Xerians?](what-is-xerians.md)
-* [Token Ecosystem](token-ecosystem.md)
+* [Token Ecosystem](token-ecosystem/README.md)
+  * [Stake Mechanism](token-ecosystem/stake-mechanism.md)
+  * [IGO Privilige](token-ecosystem/igo-privilige.md)
 * [Collectibles](collectibles.md)
 * [Gameplay](gameplay.md)
 * [Roadmap](roadmap.md)
