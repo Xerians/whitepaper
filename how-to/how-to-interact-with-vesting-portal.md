@@ -16,3 +16,49 @@ Your $XRNS tokens will remain inside the vesting contract until the release comm
 
 **Registered Vesting Beneficiary addresses couldn't be changed after public sales!**
 
+
+
+
+
+**Glossary of Terms:**
+
+Token:
+
+*   **Locked**
+
+    Amount of $XRNS tokens that are currently locked via smart contract
+*   **Available**
+
+    Amount of $XRNS tokens that are currently available to be manually released to your wallet
+*   **Claimed**
+
+    Amount of $XRNS tokens that have already been released to your wallet
+
+Vesting:
+
+*   **Start**
+
+    Start Date of Vesting calendar for your vested XRNS tokens become claimable
+*   **Period**
+
+    Time Frequency (for that calendar) that your vested XRNS tokens become claimable in linear
+*   **End**
+
+    End Date of Vesting calendar which is defined for your wallet.
+
+## Claiming $XRNS Tokens <a href="#claiming-shopx-tokens" id="claiming-shopx-tokens"></a>
+
+To claim your available $XRNS tokens, click on the _Release_ button at the bottom. Once you click , a Metamask prompt will pop up to connect to and confirm your account.&#x20;
+
+You will also be asked to confirm gas fees (AVAX) to receive your tokens from Vesting Contract.
+
+
+
+![](<../.gitbook/assets/image (12).png>)
+
+**Please note that you will be responsible for all release contract gas fees to transfer tokens into your wallet from the Vesting Contract.**
+
+\
+Once you confirm over Metamask, the Token Release Contract is then executed.&#x20;
+
+Once transaction is successfully complete, you will see your $XRNS token quantity update in your wallet on snowtrace web page and under Metamask -> Assets section.&#x20;
