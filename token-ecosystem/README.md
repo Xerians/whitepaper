@@ -27,8 +27,12 @@ Total supply 1,000,000,000&#x20;
 \----------------------------------------
 
 * Initial Market Cap $252,000
-* Seed sale $280,000 \[%4]  - _12 months cliff after IDO, 12 months linear vesting_
-* Private sale $700,000 \[%5] - _6 months cliff, 12 months linear vesting_
+*   Seed sale $280,000 \[%4]  - _12 months cliff after IGO, 12 months linear vesting_&#x20;
+
+    _(%2.5 of Seed Supply will be unlocked in first 2 months, remaining 12 months cliff)_
+*   Private sale $700,000 \[%5] - _6 months cliff after IGO, 12 months linear vesting_&#x20;
+
+    _(%2 of Private Supply will be unlocked in first 2 months, remaining 12 months cliff)_
 * Public sale \[%5]  - 1 month cliff, _5 months linear vesting_
 * Team \[%13] - _12 months cliff, 48 months linear vesting_
 * Advisors \[%3] - _12 months cliff, 12 months linear vesting_
