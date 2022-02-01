@@ -4,7 +4,7 @@ description: Vesting Features
 
 # How to Interact with Vesting Portal?
 
-Xerians Team developed a Xerians Token Vesting App which interacts with our Vesting Contract that allows the beneficiary, to view detailed information about the their vested $XRNS tokens and release them into your wallet when release periods are achieved.
+Xerians Team developed a Xerians Token Vesting App which interacts with our Vesting Contract that allows the beneficiary, to view detailed information about their vested $XRNS tokens and release them into your wallet when release periods are achieved.
 
 Tokens will release on a daily basis after the Public sales. The total monthly % due to unlock will be completely unlocked by the end of each month. That percentage will be divided into equal parts which unlock by the days up to the final date of that period. So if you have 60% unlock for the total vesting period which is planned one year, divided by 12 months in a year, you have 5% available by the end of that month.
 
