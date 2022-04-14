@@ -18,7 +18,7 @@ After 25 years of experience in customer experience and business process managem
 
 For him,_“Xerians Game is not only an NFT Game. Xerians will be become a lifetime experience.”_
 
-His favorite Xerian is Xagnaro.
+His favorite Xerian is Xemo.
 
 Over 10 years of experience in Digital Transformation with Process\&Business Development in many technology areas. BD of RPA\&AI Based Technology Company PRP Business Solutions & NFTPrime Inc.
 
