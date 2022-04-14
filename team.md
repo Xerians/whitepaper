@@ -10,6 +10,8 @@ Over 15 years of experience in Digital Transformation and over 5 years of experi
 
 ### Tuğçe ESE (Co-founder )
 
+For her, "X_erians is an utopic and infinite game universe. Come on, enjoy this project!"_
+
 Her favorite Xerians is  Xegnaro.
 
 After 25 years of experience in customer experience and business process management, has co-founded RPA\&AI Based Technology Company PRP Business Solutions.
