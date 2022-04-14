@@ -32,7 +32,7 @@ His favorite Xerian is Xalesa.
 
 Defining himself as a comic illustrator and experienced in this area. Stepped into the game industry as a clean up artist. Still working freelance in many illustration and theming projects.
 
-### İsmail Kahraman (CTO)
+### İsmail KAHRAMAN (CTO)
 
 For him, _"Sometimes, the cards play you"_
 
