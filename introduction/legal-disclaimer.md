@@ -1,0 +1,10 @@
+# Legal Disclaimer
+
+The primary purpose of this whitepaper is to provide potential users interested in Xerians with pertinent information in order for them to thoroughly analyze the project. Prior to your participation in Xerians community, we strongly advocate a careful study of this whitepaper all the documents.&#x20;
+
+Xerians is a pure entertainment platform, and it is not (not it is required to be) an active licensed or regulated or exempted financial, gambling/e-gaming/betting, or payment or digital asset service or VASP of any kind and in any jurisdiction. Any terminology used in this document, or on the Website is intended only as a basic reference, without any effective or legal meaning of the same terms in a financial environment, and/or any other regulated framework including e-gaming and/or gambling and betting.\
+
+
+The XRNS token is a strictly utility token in any jurisdiction and is not and cannot be considered as a security or otherwise a regulated token of any kind, is not in any way e-money and/or a fiat or asset backed stable coin, whether global or limited in scope&#x20;
+
+This document taken by itself is not, nor it can be construed as a contract, an investment contract, or a contractual agreement of any kind, it is not a prospectus, term sheet, an invitation or offer to invest in XERIANS or acquire or use its token in any way with any expectation of future profit. Any user of the XERIANS Website and reader of this WP expressly declares to have received appropriate technical, administrative and legal advice before and after reading this document and the Website’s content and accepts that there is an inherent high risk in acquiring or using any kind of blockchain and/or crypto or digital token, platform, software or interface and acknowledges with full disclaimer for any of the persons or entities mentioned within this WP or in any way directly or indirectly connected to the XERIANS project, that there can be any kind of damage suffered, including total loss.
