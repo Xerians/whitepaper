@@ -17,6 +17,7 @@ The agreement parameters:
 
 Xern K has a Heroic Card and would like to play in a high rated Xerena. Since the price is high, Xern K needs an Investor to play and puts forth an offer. Investor L wants to join matches without purchasing a Xerian. They agree on Xern K’s price offer to play together for 6 matches and share the revenue %70 to %30.
 
-\*To become an Investor, Xern must purchase an Investor Card from the in-game store:
+\*To become an Investor, Xern must purchase an Investor Card from the in-game store
 
-<img src="../.gitbook/assets/image (8).png" alt="" data-size="line">
+![](<../.gitbook/assets/image (3).png>)
+
