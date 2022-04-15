@@ -19,5 +19,5 @@ Xern K has a Heroic Card and would like to play in a high rated Xerena. Since th
 
 \*To become an Investor, Xern must purchase an Investor Card from the in-game store
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
