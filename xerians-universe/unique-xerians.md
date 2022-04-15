@@ -1,14 +1,21 @@
 # Unique Xerians
 
-|                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                           **Xaqua**![](../.gitbook/assets/XE10\_Xaqua.png)****    | Not only is it powerful enough to dominate the oceans, Xaqua from Xaquarians can create waves and tsunamis with its huge fins. Equipped with high intelligence and tremendous speed, Xaqua can contribute to Xerians who fight side-by-side with it. Its lack of communication and hatred of receiving orders may make Xaqua act against the unity of the team, but its endurance is an exceptional asset.                     |
-|                          **Xalesa**![](../.gitbook/assets/XE1\_Xalesa.png)****    | Quick-witted, Xalesa from Xalesarians can carry out the most outrageously cunning moves in Xeria, surprising all its opponents. Its acumen will deliver outstanding defensive and offensive attacks, but it is not a man of detailed planning. Its brightly-coloured armour will initiate the most horrifying catastrophes with the help of a strength-heavy team skilled at strategic intelligence                            |
-|                            **Xavax**![](../.gitbook/assets/XE2\_Xavax.png)****    | Ruinous like a wildfire, Xavax from Xavaxians creates mayhem wherever it sets its eyes to. Far-reaching in its influence and fame, it will dominate the battles in its red armour. Roaring with flaming eyes, Xavax might not always follow through with the strategy as its motivation to destroy may override its plans. Smart and strategically adept teammates can harvest Xavax's potential for destruction.              |
-|                           **Xamo**![](../.gitbook/assets/XE3\_Xamo.png)****       | Xamo from Xamorians will change the rules of the battleground through its meticulous planning and intellect. As if ruling the dangerous wonders of the underground, Xamo will author strategies of the combats, and make its opponents regret ever crossing paths with it. As it is a stable and static warrior, fast plans and circumstances aren't Xamo's forte. Perfectly camouflaged, Xamo’s strength comes from its mind. |
-|                         **Xemerald**![](../.gitbook/assets/XE4\_Xemerald.png)**** | With the emerald stone guiding it, Xemerald from Xemeraldians relies on its agile feet to confuse, and in time, overpower its enemies. Wise and quick, when attacked by its opponents, Xemerald plays the smart game, hiding and attacking when luck is on its side. As it is built to fight and strategize, Xemerald can benefit from its team's endurance and strength.                                                      |
-|                           **Xapphi**![](../.gitbook/assets/XE5\_Xapphi.png)****   | Like a god of the sky, Xapphi from Xapphirians dominates the field through its quicksilver battle tactics. Trained to be a long-lasting presence in the battle, Xapphi won't tire of its speedy attacks causing havoc and demolition in their wake. It is a perfect companion to strength and intelligence heavy teams, turning its enemies upside down as the wind does.                                                      |
-|                          **Xyani**![](../.gitbook/assets/XE6\_Xyani.png)****      | Xyani from Xyanirians can take down its enemies with a single blow before they can even see its azure armour. As it is rapid and strong, it terrorizes its enemies on the battlefield with bold and brave attacks coming unannounced. A valuable resource, Xyani's skills shine brightest with a team to strategize and grant it some protection during fights.                                                                |
-|                          **Xopaz**![](../.gitbook/assets/XE7\_Xopaz.png)****      | ​​Xopaz from Xopazrians is far too indestructibly built to take any back steps in the field. It is a losing game trying to try to get away from its lightning attacks. With brute force and nimbleness, Xopaz's choice of attacking relies on quick and severe blows, not a strategy. Its orange suit ready and set, Xopaz is prepared to surprise its enemies on the road to victory.                                         |
-|                            **Xion**![](../.gitbook/assets/XE8\_Xion.png)****      | Xion from Xionians is as durable and fear-inducing as the lion rulers of the forests. A valiant presence in the battle, its roar makes its opponents tremble with fear and the ground vibrate. Xion’s heavy weight might make it slow, but its cunning intelligence puts it in a strategical position to mastermind the battles.                                                                                               |
-|                          **Xambe**![](../.gitbook/assets/XE9\_Xambe.png)****      | Swift like an Olympian, Xambe from Xamberians is a force of nature. Sharp-minded and skilled at combat, Xambre can make Xerana's roads echo with its name and amber armour's fame. Whilst it can react even before its opponent has decided on a move, its intellect is made for quick dashes and solutions, not strategy-making. A sturdy and robust team will make Xambe invincible.                                         |
+![](<../.gitbook/assets/image (21).png>)
+
+![](<../.gitbook/assets/image (4).png>)
+
+![](<../.gitbook/assets/image (16).png>)
+
+![](<../.gitbook/assets/image (20).png>)
+
+![](<../.gitbook/assets/image (1).png>)
+
+![](<../.gitbook/assets/image (22).png>)
+
+![](<../.gitbook/assets/image (17).png>)
+
+![](<../.gitbook/assets/image (18).png>)
+
+![](<../.gitbook/assets/image (8).png>)
+
+![](<../.gitbook/assets/image (6).png>)

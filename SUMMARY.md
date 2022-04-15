@@ -19,7 +19,7 @@
   * [Play to Earn](earning-mechanisms-and-p2e/play-to-earn.md)
   * [Staking](earning-mechanisms-and-p2e/staking.md)
 * [Xerians Universe](xerians-universe/README.md)
-  * [Chieftains](xerians-universe/chieftains.md)
+  * [Chieftains](xerians-universe/chieftains-1.md)
   * [Unique Xerians](xerians-universe/unique-xerians.md)
 * [Game Economy](game-economy.md)
 * [Community Rewards](community-rewards.md)
