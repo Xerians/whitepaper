@@ -22,4 +22,4 @@ Example: You are a Xern with a Xerian Card Score separated according to properti
 1. Decide to stake your Xerian Card and choose Strategy property for staking.
 2. Upgrade it faster in a short time and choose '2X' speed and '7 days' term for stake.
 3. Pay 3000 $XRNS and 7 Days Upgrade Score
-4. Stake your card for 7 days and upgrade your score to 8.36 (=,36 upgrade is added as shown in above table)&#x20;
+4. Stake your card for 7 days and upgrade your score to 8.36 (0,36 upgrade is added as shown in above table)&#x20;
