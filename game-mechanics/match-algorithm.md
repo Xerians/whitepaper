@@ -14,6 +14,4 @@ In summary, the skill score of the team that makes the hit stays the same , the 
 
 When it is the turn of Team 2, the same mechanism works in the game. The team that loses the skill points loses the match.
 
-The winning team members share the loot by its own rank based on card power. In addition, all winning team members gain 0,5 points in total to all their skills and on the contrary 0,5 points will be deducted totally from skill scores of the members of the losing team.
-
-For  above example , 0,5 points is added to all skills of Team 1.
+The winning team members share the loot by its own rank based on card power. In addition, all winning team members’ skill scores are increased by 0,5 % of the end-scores.
