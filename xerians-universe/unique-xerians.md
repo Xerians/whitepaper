@@ -1,21 +1,21 @@
 # Unique Xerians
 
-![](<../.gitbook/assets/image (21).png>)
+![](../.gitbook/assets/01Xaqua.jpg)
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/02Xion.jpg)
 
-![](<../.gitbook/assets/image (16).png>)
+![](../.gitbook/assets/03Xopaz.jpg)
 
-![](<../.gitbook/assets/image (20).png>)
+![](../.gitbook/assets/04Xyani.jpg)
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/05Xapphi.jpg)
 
-![](<../.gitbook/assets/image (22).png>)
+![](../.gitbook/assets/06Xemerald.jpg)
 
-![](<../.gitbook/assets/image (17).png>)
+![](../.gitbook/assets/07Xoma.jpg)
 
-![](<../.gitbook/assets/image (18).png>)
+![](../.gitbook/assets/08Xalesa.jpg)
 
-![](<../.gitbook/assets/image (8).png>)
+![](../.gitbook/assets/09Xambe.jpg)
 
-![](<../.gitbook/assets/image (6).png>)
+![](../.gitbook/assets/10Xavax.jpg)
