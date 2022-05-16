@@ -28,6 +28,6 @@
 * [Roadmap](roadmap.md)
 * [Team](team.md)
 * [Find out more](find-out-more/README.md)
-  * [Visit Xerians.com](https://www.xerians.com)
+  * [Visit Xerians.com](https://www.xerians.com/)
   * [Join Xerians Discord Server](https://discord.gg/RJHppHD7yB)
   * [Follow Us on Twitter](https://twitter.com/XeriansGame)

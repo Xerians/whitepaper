@@ -1,21 +1,21 @@
 # Chieftains
 
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/01Xamurai.jpg)
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](../.gitbook/assets/02Xamses.jpg)
 
-![](<../.gitbook/assets/image (9).png>)
+![](../.gitbook/assets/03Xikito.jpg)
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](../.gitbook/assets/04Xamazon.jpg)
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/05Xaladin.jpg)
 
-![](<../.gitbook/assets/image (23).png>)
+![](../.gitbook/assets/06Xegnero.jpg)
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](../.gitbook/assets/07Xedussa.jpg)
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](../.gitbook/assets/08Xemo.jpg)
 
-![](<../.gitbook/assets/image (11).png>)
+![](../.gitbook/assets/09Xeron.jpg)
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](../.gitbook/assets/10Xenesha.jpg)
