@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Why Avalanche?](introduction/why-avalanche.md)
+  * [Minting](introduction/why-avalanche.md)
+  * [NFT Holders’ Rewards](readme/nft-holders-rewards/README.md)
+    * [How To Win](readme/nft-holders-rewards/how-to-win.md)
   * [Legal Disclaimer](introduction/legal-disclaimer.md)
 * [Game Mechanics](game-mechanics/README.md)
   * [Xerian Types & Rarity](game-mechanics/xerian-types-and-rarity/README.md)
@@ -23,8 +25,7 @@
   * [Unique Xerians](xerians-universe/unique-xerians.md)
 * [Game Economy](game-economy.md)
 * [Community Rewards](community-rewards.md)
-* [IGO](igo/README.md)
-  * [Token Farming](igo/token-farming.md)
+* [IGO](igo.md)
 * [Roadmap](roadmap.md)
 * [Team](team.md)
 * [Find out more](find-out-more/README.md)

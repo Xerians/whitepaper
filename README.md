@@ -2,7 +2,7 @@
 
 ![](<.gitbook/assets/kapak görsel.jpg>)
 
-Xerians is an NFT-based play-to-earn card game on Avalanche Blockchain Network. Mechs (named Xerians) are carefully hand-drawn and crafted within all aspects. The collection of 11.111 Xerians is created in the mindset of prioritizing high-quality work.
+Xerians is an NFT-based play-to-earn card game on Binance Smart Chain (BSC) Blockchain Network. Mechs (named Xerians) are carefully hand-drawn and crafted within all aspects. The collection of 11.111 Xerians is created in the mindset of prioritizing high-quality work.
 
 Each Xerian consists of 9 different layers, including 5 body parts, 1 card and 3 boosters. Each body part stands for a different skill (ex. Head for Intelligence). During the minting process of a Xerian NFT, all layers will be generated randomly. Each Xerian will belong to a race according to their body parts.
 
@@ -14,7 +14,7 @@ A match starts when all slots are filled. The order of players is randomly alloc
 
 For example:
 
-**1st turn:** Team 1 hits with its intelligence to Team 2’s power&#x20;
+**1st turn:** Team 1 hits with its intelligence to Team 2’s power
 
 **2nd turn:** Team 2 hits with its strength to Team 1’s speed
 
@@ -22,12 +22,12 @@ A team’s total scores of each skill are determined by individual Xerians’ la
 
 In order to improve their winning chances, Xerians’ scores could be upgraded to reach higher values since all layers are replaceable with higher scoring parts (except Chieftains and Unique Xerians).
 
-Xerns can purchase or sell layers via the in-game store using $XRNS (the utility token of Xerians Universe). Xerns can also buy and sell Xerenas to have an additional income.&#x20;
+Xerns can purchase or sell layers via the in-game store using $XRNS (the utility token of Xerians Universe). Xerns can also buy and sell Xerenas to have an additional income.
 
 Xerns have multiple revenue streams in Xerians:
 
-1. Winning matches&#x20;
-2. Renting out or selling Xerenas&#x20;
-3. Selling Xerians NFTs&#x20;
-4. Selling body parts and boosters&#x20;
+1. Winning matches
+2. Renting out or selling Xerenas
+3. Selling Xerians NFTs
+4. Selling body parts and boosters
 5. Staking $XRNS
