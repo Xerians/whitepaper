@@ -40,12 +40,6 @@ His favorite Xerian is Xegnaro.
 
 Over 20 years experience in designing, implementing and managing numerous successful software solutions for companies in the aviation, tourism, media , e-commerce and logistic sectors . Responsible of the company's development processes, system integration
 
-### Sarp .... (Community Lead)
+###
 
-For her, _"Xerians and Xerians Universe makes me excited! They are going to rockX!!"_
-
-Her favorite Xerian is Xamazon\_.\_
-
-Over 20 years of experience in organization and event management. Working in NFT and blockchain projects in the last year
-
-### Ceyda Karaarslan (Project Manager )
+###
