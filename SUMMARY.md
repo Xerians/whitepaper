@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Why Avalanche?](readme/why-avalanche.md)
   * [Legal Disclaimer](introduction/legal-disclaimer.md)
 * [Game Mechanics](game-mechanics/README.md)
   * [Xerian Types & Rarity](game-mechanics/xerian-types-and-rarity/README.md)
