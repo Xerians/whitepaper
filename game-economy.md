@@ -14,6 +14,8 @@ Token symbol: **$XRNS**
 
 **$XRNS Token farming:** Xerns can upgrade their Xerians’ skills by locking different amounts of $XRNS. This process will be present until the game release.
 
+**Xerian NFT Mint Opportunity:** Xerns lock 5000 $XRNS to gain different amounts of discount in minting price according to the terms chosen.&#x20;
+
 **NFT Investing:** $XRNS tokens can be used to invest on Xerians for battles.
 
 **NFT Upgrades:** $XRNS tokens can be used to build and/or upgrade your Xerians.
