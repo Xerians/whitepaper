@@ -1,5 +1,7 @@
 # Team
 
+<figure><img src=".gitbook/assets/Team_.png" alt=""><figcaption></figcaption></figure>
+
 ### Tugay ESE (Co-founder & CEO)
 
 For him,“_Xerians Game is a long term project. Everyday and every move will be better than before”_
@@ -34,12 +36,26 @@ Defining himself as a comic illustrator and experienced in this area. Stepped in
 
 ### İsmail KAHRAMAN (CTO)
 
-For him, _"Sometimes, the cards play you"_
+For him, _"Sometimes, the cards play you"._
 
 His favorite Xerian is Xegnaro.
 
-Over 20 years experience in designing, implementing and managing numerous successful software solutions for companies in the aviation, tourism, media , e-commerce and logistic sectors . Responsible of the company's development processes, system integration
+Over 20 years experience in designing, implementing and managing numerous successful software solutions for companies in the aviation, tourism, media , e-commerce and logistic sectors . Responsible of the company's development processes, system integration.
 
-###
+### Sarp DEMİREL (Community Lead)
+
+For him, “Xerians Game has potential to be one of the best NFT Game, and i’m glad to be a part of it”.
+
+His favorite Xerian is Xikito.&#x20;
+
+Over 15 years experince in gaming, 10 years of experience in live streaming and social platform moderation.
+
+### Ceyda KARAARSLAN (Project Manager)&#x20;
+
+For her, “Xerians is an NFT project that will turn a big fantasy into reality. ”
+
+Her favorite Xerian is Xenesha.&#x20;
+
+Over 20 years experince in customer experience , BPM and project management. Started to work in NFT and blockchain project in the last years. &#x20;
 
 ###

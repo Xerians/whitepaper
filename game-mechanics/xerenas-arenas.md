@@ -17,4 +17,7 @@ For Xerena 1, Rank of skills: STA-STR-INT-POW-SPD
 | SPEED (SPD)        | 0.8            |
 | STRATEGY (STA)     | 1.3            |
 
-![](../.gitbook/assets/Xerena\_Castle\_Color.png) ![](../.gitbook/assets/Xerena\_City\_Color.png) ![](../.gitbook/assets/Xerena\_Egypt\_Color.png) ![](../.gitbook/assets/Xerena\_Forest\_Color.png) ![](../.gitbook/assets/Xerena\_Moon\_Color.png)
+<figure><img src="../.gitbook/assets/KOLAJ.jpg" alt=""><figcaption></figcaption></figure>
+
+
+

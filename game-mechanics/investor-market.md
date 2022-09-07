@@ -3,7 +3,7 @@
 Investor Market is the perfect solution of 2 potential problems:
 
 1. Xerns who don’t have a Xerian but want to play the game
-2. Xerns who have a Xerian but don’t want to spend $XRNS to play0
+2. Xerns who have a Xerian but don’t want to spend $XRNS to play
 
 Investor Market brings these 2 types of Xerns together. Type 2 can put their cards to Investor Market to receive offers from Investors (Type 1) to rent out their Xerians. They shape their agreement together.
 

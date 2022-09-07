@@ -1,3 +1,3 @@
 # Roadmap
 
-<figure><img src=".gitbook/assets/roadmap_new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/roadmap_yeni.png" alt=""><figcaption></figcaption></figure>

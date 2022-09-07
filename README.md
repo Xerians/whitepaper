@@ -2,11 +2,13 @@
 
 ![](<.gitbook/assets/kapak görsel.jpg>)
 
-Xerians is an NFT-based play-to-earn card game on Avalanche Blockchain Network. Mechs (named Xerians) are carefully hand-drawn and crafted within all aspects. The collection of 11.111 Xerians is created in the mindset of prioritizing high-quality work.
+Xerians is an NFT-based play-to-earn card game on Binance Smart Chain (BSC) Blockchain Network. Mechs (named Xerians) are carefully hand-drawn and crafted within all aspects. The collection of 11.111 Xerians is created in the mindset of prioritizing high-quality work.
 
 Each Xerian consists of 9 different layers, including 5 body parts, 1 card and 3 boosters. Each body part stands for a different skill (ex. Head for Intelligence). During the minting process of a Xerian NFT, all layers will be generated randomly. Each Xerian will belong to a race according to their body parts.
 
 Members of Xerian Universe are called “Xerns”.
+
+Xerians are  3 different characters: Chieftains, Unique Xerians and Xerian Soldiers. There are 5 rarities according to card and skill scores: Heroic, Super Rare, Rare, Epic, Common.  Chieftains belong to Heroic rarity and are the most powerful characters. Unique Xerians are Super Rare and second most powerful ones. Xerian Soldiers are divided into 3 rarities of Rare, Epic, Common.
 
 To start their adventures in 1v1 or 3v3 matches, Xerns need to purchase a battle ticket. These matches take place in battle arenas called “Xerenas”. Each Xerena is unique and boosts one of the 5 skills with a particular multiplier (for example in a Xerena, 1.2x intelligence score). Xerns are able to choose the price of a Xerena ticket but they are not able to choose which particular Xerena they’ll play in.
 

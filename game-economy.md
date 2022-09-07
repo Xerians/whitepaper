@@ -2,7 +2,7 @@
 
 Token symbol: **$XRNS**
 
-![](<.gitbook/assets/tokenomics final.jpg>)
+<figure><img src=".gitbook/assets/tokenomics.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Usecases
 
@@ -13,8 +13,6 @@ Token symbol: **$XRNS**
 **Staking:** There are different options of staking $XRNS in the game. Different stake terms and stake amounts can be chosen to gain different rewards.
 
 **$XRNS Token farming:** Xerns can upgrade their Xerians’ skills by locking different amounts of $XRNS. This process will be present until the game release.
-
-**Xerian NFT Mint Opportunity:** Xerns lock 5000 $XRNS to gain different amounts of discount in minting price according to the terms chosen.&#x20;
 
 **NFT Investing:** $XRNS tokens can be used to invest on Xerians for battles.
 

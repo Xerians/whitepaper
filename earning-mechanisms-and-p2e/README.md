@@ -6,4 +6,4 @@ Xerns have multiple revenue streams in Xerians:
 2. Xerenas: Passive income by renting out or selling.
 3. NFTs: Selling strengthened Xerians Body Parts & Boosters: Selling separately.
 4. $XRNS: Staking $XRNS
-5. Community Rewards: %14 of each prize pool, mint milestones.
+5. Community Rewards: %14 of each prize pool, NFT Holders' Rewards.
