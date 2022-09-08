@@ -1,6 +1,6 @@
 # Team
 
-<figure><img src=".gitbook/assets/Team_.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Team_küçük.png" alt=""><figcaption></figcaption></figure>
 
 ### Tugay ESE (Co-founder & CEO)
 
