@@ -19,7 +19,6 @@ Minted NFTs come in a mystery box. Xerns buy and mint the mystery box without kn
 
 &#x20;This table shows the number of cards to be minted per phase.&#x20;
 
-<figure><img src="../.gitbook/assets/TABLO.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TABLO (1).png" alt=""><figcaption></figcaption></figure>
 
 A Xern may claim the mystery box to make the unique NFT card reveal or prefer to  keep the NFT hidden in mystery box as long as s/he wants. Mystery boxes have also the option to be sold in marketplaces to interested buyers.
-
